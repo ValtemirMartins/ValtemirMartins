@@ -1,4 +1,4 @@
-Olá 👋
+Olá 👋 <br>
 Sou Desenvolvedor Fullstack com foco em JavaScript, Node.js, React e MongoDB. Atualmente, estou cursando Ciências da Computação na Estácio (Cabo Frio, RJ) e me especializando em desenvolvimento web. Tenho experiência prática em tecnologias modernas e estou aplicando meus conhecimentos para entregar projetos de alta qualidade como freelancer. Adoro aprender e estou em constante evolução.
 
 💻 Tecnologias que domino: <br>
